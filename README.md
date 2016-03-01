@@ -1,8 +1,10 @@
 # SSLyze
 A quick docker implementation of SSLyze
 
-docker-compose run --rm www.google.com
+## Use
+`docker run --rm stono/sslyze www.google.com` or download the repo and do `docker-compose run --rm www.google.com`
 
+## Example Output
 ```
 VAILABLE PLUGINS
  -----------------
